@@ -102,8 +102,8 @@ This highlights Rice as a dominant global staple commodity.
 
 ## Visual Analysis
 
-### Top 10 Rice Export Markets![Rice](TOP 10 RICE MARKETS.png)
-### Top 10 Soyabean Export Markets![Soyabean](TOP 10 SOYABEAN MARKETS.png)
+### Top 10 Rice Export Markets![Rice](TOP10 RICE MARKETS.png)
+### Top 10 Soyabean Export Markets![Soyabean](TOP10 SOYABEAN MARKETS.png)
 ### Rice Export Markets![Rice Trend](rice_yearly_trend.png)
 ### Soyabean Export Markets![Soyabean Trend](soyabean_yearly_trend.png)
 ### Rice vs Soyabean value per kg![value per kg trend](rice vs soyabean value per kg.png)
