@@ -84,7 +84,6 @@ Major importers of Soybean include:
 
 Soybean exports are more distributed across North America and Europe.
 
----
 
 ### 3. Trade Value Comparison
 
@@ -93,7 +92,6 @@ Soybean exports are more distributed across North America and Europe.
 
 This highlights Rice as a dominant global staple commodity.
 
----
 
 ### 4. Value per Kg Analysis
 
@@ -102,7 +100,13 @@ This highlights Rice as a dominant global staple commodity.
 * Rice: ~0.77 per kg
 * Soybean: ~1.38 per kg
 
----
+## Visual Analysis
+
+### Top 10 Rice Export Markets![Rice](TOP 10 RICE MARKETS.png)
+### Top 10 Soyabean Export Markets![Soyabean](TOP 10 SOYABEAN MARKETS.png)
+### Rice Export Markets![Rice Trend](rice_yearly_trend.png)
+### Soyabean Export Markets![Soyabean Trend](soyabean_yearly_trend.png)
+### Rice vs Soyabean value per kg![value per kg trend](rice vs soyabean value per kg.png)
 
 ## Key Insights
 
